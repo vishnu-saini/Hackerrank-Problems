@@ -7,9 +7,7 @@ import java.util.Scanner;
 
 public class Solution {
 
-    /*
-     * Complete the getTotalX function below.
-     */
+
     static int getTotalX(int[] a, int[] b) {
         
         int count = a[a.length - 1];
